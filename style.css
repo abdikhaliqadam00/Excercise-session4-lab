@@ -1,0 +1,44 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+.box {
+    width: 450px;
+    padding: 30px;
+    margin: 200px auto;
+    text-align: center;
+    border: 2px solid white;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.yellow {
+    color: yellow;
+}
+
+a {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    display: block;
+    width: 100px;
+    text-align: center;
+}
